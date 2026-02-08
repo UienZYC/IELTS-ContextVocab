@@ -8,3 +8,5 @@ __pycache__/
 # 本地配置/数据文件（如果不需要共享）
 app_config.json
 learning_progress.json
+
+./Assets/
