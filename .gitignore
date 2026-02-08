@@ -1,0 +1,10 @@
+# 虚拟环境
+.venv/
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 本地配置/数据文件（如果不需要共享）
+app_config.json
+learning_progress.json
